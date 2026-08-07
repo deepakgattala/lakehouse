@@ -1,0 +1,14 @@
+backend/app/models/knowledge.py
+backend/app/models/__init__.py
+backend/app/knowledge/__init__.py
+backend/app/knowledge/catalog.py
+backend/app/knowledge/digital_twin.py
+backend/app/knowledge/fingerprint.py
+backend/app/api/knowledge.py
+backend/app/main.py
+backend/app/services/collector_catalog.py
+backend/app/tasks/jobs.py
+backend/alembic/versions/0004_oracle_knowledge_engine.py
+frontend/src/App.tsx
+SPRINT_3_2.md
+README.md

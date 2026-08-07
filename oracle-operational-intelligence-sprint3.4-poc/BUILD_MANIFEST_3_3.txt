@@ -1,0 +1,13 @@
+Sprint 3.3 Explainable Intelligence Engine
+- 0005_intelligence_engine migration
+- rule_definitions / rule_versions / rule_executions
+- JSON rule DSL and evaluator
+- default Oracle metadata intelligence rules
+- evidence engine
+- recommendation engine
+- health/risk scoring
+- object state transitions
+- rule create/version/toggle/test APIs
+- target/object intelligence evaluation APIs
+- risk, evidence, recommendation, timeline APIs
+- React Oracle Intelligence workspace
